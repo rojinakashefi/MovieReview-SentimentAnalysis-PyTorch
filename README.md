@@ -1,6 +1,6 @@
 # Sentiment analysis on IMDB Movie Reviews with Pytorch
 
-A mini project, Using ROBERTA model with pytorch for sentiment analysis.
+A project, Using ROBERTA model with pytorch for sentiment analysis on IMDB movie reviews.
 
 <img title="" src="https://github.com/rojinakashefi/IMDBMovie-SentimentAnalysis/blob/main/images/loss-per-epoch.png" alt="" width="316" data-align="center">
 
