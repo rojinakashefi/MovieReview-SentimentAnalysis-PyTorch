@@ -20,7 +20,7 @@ A mini project, Using ROBERTA model with pytorch for sentiment analysis.
 
 5. Implement Validation and plotted Confusion matrix. The other evaluation criteria are shown as well.
    
-   <img title="" src="https://github.com/rojinakashefi/IMDBMovie-SentimentAnalysis/blob/main/images/confusion.png" alt="" width="246" data-align="center">
+   <img title="" src="https://github.com/rojinakashefi/IMDBMovie-SentimentAnalysis/blob/main/images/confuison.png" alt="" width="246" data-align="center">
 
 ## Project layout
 
