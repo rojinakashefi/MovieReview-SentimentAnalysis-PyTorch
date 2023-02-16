@@ -2,9 +2,9 @@
 
 A mini project, Using ROBERTA model with pytorch for sentiment analysis.
 
-<img title="" src="file:///Users/rojina/Desktop/Movie-SentimentAnalysis-pytorch/images/loss-per-epoch.png" alt="" width="316" data-align="center">
+<img title="" src="https://github.com/rojinakashefi/IMDBMovie-SentimentAnalysis/blob/main/images/loss-per-epoch.png" alt="" width="316" data-align="center">
 
-<img title="" src="file:///Users/rojina/Desktop/Movie-SentimentAnalysis-pytorch/images/output.png" alt="" width="314" data-align="center">
+<img title="" src="https://github.com/rojinakashefi/IMDBMovie-SentimentAnalysis/blob/main/images/output.png" alt="" width="314" data-align="center">
 
 ## Description
 
@@ -16,11 +16,11 @@ A mini project, Using ROBERTA model with pytorch for sentiment analysis.
 
 4. Trained using pretrained Roberta model class.
    
-   <img title="" src="file:///Users/rojina/Library/Application%20Support/marktext/images/2023-02-15-21-04-05-image.png" alt="" width="338" data-align="center">
+   <img title="" src="https://github.com/rojinakashefi/IMDBMovie-SentimentAnalysis/blob/main/images/The-RoBERTa.png" alt="" width="338" data-align="center">
 
 5. Implement Validation and plotted Confusion matrix. The other evaluation criteria are shown as well.
    
-   <img title="" src="file:///Users/rojina/Desktop/Movie-SentimentAnalysis-pytorch/images/confuison.png" alt="" width="246" data-align="center">
+   <img title="" src="https://github.com/rojinakashefi/IMDBMovie-SentimentAnalysis/blob/main/images/confuison.png" alt="" width="246" data-align="center">
 
 ## Project layout
 
@@ -36,10 +36,10 @@ A mini project, Using ROBERTA model with pytorch for sentiment analysis.
 
 ## Dataset
 
-(https://www.cs.cornell.edu/people/pabo/movie-review-data/)
+https://www.cs.cornell.edu/people/pabo/movie-review-data/
 
 ## Libarary used
 
-Sklearn, transformers, pyTorch, seaborn, nltk
+Sklearn, Transformers, PyTorch, Seaborn, NLTK
 
 
